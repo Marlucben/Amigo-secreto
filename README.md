@@ -11,6 +11,6 @@ Consiste en ingresar un nombre a la vez e ir apretando el boton "Añadir"
 La aplicacion no aceptara nombres vacios.
 Una vez ingresados todos los nombres que el usuario quiere sotear sin limite, oprimira el boton sortear y mostrara un resultado.
 
-</br>
-Autores del proyecto: Marcos Benassi
-Challenge el "Amigo secreto" de ALURA
+</br></br>
+<p>Autores del proyecto: Marcos Benassi</p>
+<p>Challenge el "Amigo secreto" de ALURA</p>
