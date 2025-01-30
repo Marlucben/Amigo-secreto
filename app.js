@@ -6,7 +6,7 @@ let indice = 0;
 function condicionesIniciales(){
 
     if (amigos!=='')
-    //alert('perfecto no esta vacio ')
+    //alert('perfecto no esta vacio')
      return true;
     else return alert("Por favor, inserte un nombre.");
 
