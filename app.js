@@ -55,7 +55,7 @@ function generarNumeroSecreto() {
 
 function sortearAmigo(){
     let sorteo = document.querySelector('#resultado');
-    sorteo.innerHTML = nombres[generarNumeroSecreto()];
+    sorteo.innerHTML = 'El amigo secreto sorteado es: '+ nombres[generarNumeroSecreto()];
     
 
 }
